@@ -1,2 +1,0 @@
-# Friendchat
-my personal project 
